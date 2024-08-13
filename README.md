@@ -2,7 +2,7 @@
 
 This is Ubuntu Lunar Lobster Xfce Desktop.It can change 3 styles.The styles are Windows 11 Style,MacOS Style & Neon Style.Some packages like VS Code,etc are pre-installed.Before you install this distro on android 12 and 13,disable phantom process killer. 
 
-[Watch Video Here](https://youtu.be/UxmQSETvAOc) 
+[Here](https://github.com/atamshkai/Phantom-Process-Killer/tree/main) 
 
 ## Preview
 
