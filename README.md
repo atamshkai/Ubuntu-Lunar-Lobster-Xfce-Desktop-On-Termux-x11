@@ -95,6 +95,8 @@ xfce &>/dev/null
 
 ### Change Style Commands (Don't Repeat)
 
+### Then Restart Distro
+
 ```
 win2mac
 ```
